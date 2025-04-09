@@ -9,7 +9,7 @@ const SliderBlock = React.memo(({ image, heading, description }) => (
     <div className="w-1/2">
       <img
         src={image}
-        alt="service"
+        alt="Image"
         className="w-full h-full object-cover"
       />
     </div>

@@ -13,7 +13,7 @@ import { FooterComponent } from './components/FooterComponent';
 function App() {
 
   return (
-    <BrowserRouter basename={process.env.PUBLIC_URL}>
+    <BrowserRouter>
       <Container>
         <Routes>
           <Route path="/" element={

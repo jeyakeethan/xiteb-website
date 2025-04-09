@@ -43,7 +43,7 @@ export default function StatsComponent() {
             </div>
 
             {/* Shaded Background Behind Both Number and Text */}
-            <div className="absolute inset-0 text-gray-200 text-center text-5xl font-bold opacity-10 rounded-lg">
+            <div className="absolute inset-0 text-gray-200 text-center text-5xl font-bold rounded-lg">
               {stat.number}
             </div>
           </div>
