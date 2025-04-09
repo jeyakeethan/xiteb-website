@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/xiteb-website/static/css/main.b5cba4c1.css",
-    "main.js": "/xiteb-website/static/js/main.dfa3b31e.js",
+    "main.js": "/xiteb-website/static/js/main.8e4aec0f.js",
     "static/js/453.9af89444.chunk.js": "/xiteb-website/static/js/453.9af89444.chunk.js",
     "index.html": "/xiteb-website/index.html",
     "main.b5cba4c1.css.map": "/xiteb-website/static/css/main.b5cba4c1.css.map",
-    "main.dfa3b31e.js.map": "/xiteb-website/static/js/main.dfa3b31e.js.map",
+    "main.8e4aec0f.js.map": "/xiteb-website/static/js/main.8e4aec0f.js.map",
     "453.9af89444.chunk.js.map": "/xiteb-website/static/js/453.9af89444.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b5cba4c1.css",
-    "static/js/main.dfa3b31e.js"
+    "static/js/main.8e4aec0f.js"
   ]
 }
